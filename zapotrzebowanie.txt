@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<script type="text/javascript">
+			function kalkulatorzapotrzebowanie() {
+				var waga = document.zapotrzebowanieForm.waga.value
+				var wiek = document.zapotrzebowanieForm.wiek.value
+                var wzrost = document.zapotrzebowanieForm.wzrost.value
+				var wysilek = document.zapotrzebowanieForm.wysilek.value
+				if(waga > 0 && wzrost > 0){	
+					var ilosckalorie = ((waga*24)*wysilek)
+					document.zapotrzebowanieForm.kalorie.value = ilosckalorie.toFixed(2)
+				}
+				else{
+					alert("Niepoprawnie uzupe³nione pola")
+				}
+
+				
+
+			}
+		</script>
+	</head>
+	<body>
+		<form name="zapotrzebowanieForm">
+	<input type="radio" value="mê¿czyzna" name="plec" /> mê¿czyzna    
+    <input type="radio" value="kobieta" name="plec"  /> kobieta  
+    </br> </br> 
+
+    Wysi³ek fizyczny:
+    <select name="wysilek">
+    <option value="-"></option>
+    <option value="1.0">le¿¹cy lub siedz¹cy tryb ¿ycia, brak aktywnoœci fizycznej</option>
+    <option value="1.2"> praca siedz¹ca, aktywnoœæ fizyczna na niskim poziomie</option>
+    <option value="1.4"> praca niefizyczna, trening 2 razy w tygodniu</option>
+    <option value="1.6"> lekka praca fizyczna, trening 3-4 razy w tygodniu</option>
+    <option value="1.8"> praca fizyczna, trening 5 razy w tygodniu</option>
+    <option value="2.0"> ciê¿ka praca fizyczna, codzienny trening</option>
+    
+    </select> </br>
+    </br>
+			Waga [kg]: <input type="text" name="waga" size="6"><br /> <br />
+			Wzrost [cm]: <input type="text" name="wzrost" size="6"><br /> <br />
+			Wiek : <input type="text" name="wiek" size="3"><br /> <br />
+			
+          <input type="button" value="Oblicz" onClick="kalkulatorzapotrzebowanie()"><br /> <br />
+		Twoje dzienne zapotrzebowanie wynosi: <input type="text" name="kalorie" size="5"> kalorii. <br />  <br />
+
+			<input type="reset" value="Oblicz jeszcze raz" />
+		</form>
+	</body>
+</html>

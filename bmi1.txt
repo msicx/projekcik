@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<script type="text/javascript">
+			function kalkulatorBmi() {
+				var waga = document.bmiForm.waga.value
+				var wzrost = document.bmiForm.wzrost.value
+				if(waga > 0 && wzrost > 0){	
+					var finalBmi = waga/(wzrost/100*wzrost/100)
+					document.bmiForm.bmi.value = finalBmi.toFixed(2)
+
+
+
+
+					if(finalBmi < 16){
+						document.bmiForm.meaning.value = "Wyg³odzenie"
+					}
+                    
+                    if(finalBmi >16 && finalBmi <19.99){
+                    	document.bmiForm.meaning.value= "Wychudzenie"
+                    }
+
+					if(finalBmi > 17 && finalBmi < 18.49){
+						document.bmiForm.meaning.value = "Niedowage"
+					}
+					if(finalBmi > 18.5 && finalBmi < 24.99){
+						document.bmiForm.meaning.value = "Wartoœæ prawid³owa"
+					}
+
+                    if(finalBmi > 25 && finalBmi < 29.99 ) {
+                    	document.bmiForm.meaning.value = "Nadwage"
+                    }
+
+                    if(finalBmi > 30 && finalBmi < 34.99 ) {
+                    	document.bmiForm.meaning.value = "I stopieñ oty³oœci"
+                    }
+
+                    if(finalBmi > 35 && finalBmi < 39.99 ) {
+                    	document.bmiForm.meaning.value = "II stopieñ oty³oœci"
+                    }
+
+                    if(finalBmi > 40 ) {
+                    	document.bmiForm.meaning.value = "III stopieñ oty³oœci"
+                    }
+				}
+				else{
+					alert("Niepoprawnie uzupe³nione pola")
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<form name="bmiForm">
+			Waga [kg]: <input type="text" name="waga" size="6"><br /> <br />
+			Wzrost [cm]: <input type="text" name="wzrost" size="6"><br /> <br />
+			<input type="button" value="Licz BMI" onClick="kalkulatorBmi()"><br /> <br />
+			BMI: <input type="text" name="bmi" size="5"><br />  <br />
+			Twoje BMI wskazuje na : <input type="text" name="meaning" size="25"><br />  <br />
+			<input type="reset" value="Oblicz jeszcze raz" />
+		</form>
+	</body>
+</html>

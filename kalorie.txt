@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<script type="text/javascript">
+			function kalkulatorkalorie() {
+				var czas = document.kalorieForm.czas.value
+	            var wysilek = document.kalorieForm.wysilek.value
+				
+					var ilosckalorie = czas*wysilek
+					document.kalorieForm.kalorie.value = ilosckalorie.toFixed(2)
+				
+
+				
+
+			}
+		</script>
+	</head>
+	<body>
+		<form name="kalorieForm">
+	
+
+    Wysi³ek fizyczny:
+    <select name="wysilek">
+    <option value="-"></option>
+    <option value=" 15.8 "> Wchodzenie po schodach </option>
+    <option value=" 13 "> Bieg </option>
+    <option value=" 4.88 "> Szybki marsz  </option>
+    <option value=" 3.8 "> Spacer </option>
+    <option value=" 7.8 "> P³ywanie  </option>
+    <option value=" 6.1 "> Energiczny taniec  </option>
+    <option value=" 5 "> Aerobik </option>
+    <option value=" 9.3 "> Boks  </option>
+    <option value=" 3.4 "> Gra w krêgle  </option>
+    <option value=" 4.3 "> Jazda konna  </option>
+    <option value=" 7.1 "> Jazda na ³y¿wach  </option>
+    <option value=" 7.3 "> Jazda na nartach  </option>
+    <option value=" 8.4 "> Gra w kosza </option>
+    <option value=" 2.25 "> Odkurzanie   </option>
+    <option value=" 8.2 "> Skakanka   </option>
+    <option value=" 7.2 "> Tenis   </option>
+    <option value=" 6.67 "> Brzuszki   </option>
+    <option value=" 7 "> Rower stacjonarny   </option>
+    <option value=" 5.3 "> Jazda na deskorolce  </option>
+
+    
+    </select> </br>
+    </br>
+			czas [minuty]: <input type="text" name="czas" size="6"><br /> <br />
+			
+          <input type="button" value="Oblicz" onClick="kalkulatorkalorie()"><br /> <br />
+		Iloœæ spalonych kalorii: <input type="text" name="kalorie" size="5"> <br />  <br />
+
+			<input type="reset" value="Oblicz jeszcze raz" />
+		</form>
+	</body>
+</html>
