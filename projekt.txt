@@ -1,0 +1,529 @@
+Produkt (100g)	kcl	bia³ka	t³uszcze 	wêglowodany	gluten	
+Actimel	71	2,8	1,6	10,5	mo¿e zawieraæ	
+agrest	40	0,7	0,3	12,1	nie zawiera	
+ajerkoniak	277	5,4	0	29	zawiera	
+ananas	55	0,5	0,3	14,1	nie zawiera	
+ananas, plastry w syropie	87	0,5	0,2	21,2	nie zawiera	
+arbuz	35	0,4	0,1	8,8	nie zawiera	
+awokado	164	2,2	15,6	7,7	nie zawiera	
+babka biszkoptowa	332	8,8	4,9	63,2	zawiera	
+babka piaskowa	370	5,5	22	41,7	zawiera	
+bak³a¿an	22	1,3	0,1	6,4	nie zawiera	
+bak³a¿an gotowany	24	1,1	0,1	7	nie zawiera	
+banan	97	1,1	0,5	23,6	nie zawiera	
+banan suszony	345	3,7	1,5	87,9	nie zawiera	
+baton 3 Bit	515	6,9	27,5	58,5	mo¿e zawieraæ	
+baton Bounty Milk	448	4,2	25,2	56,7	mo¿e zawieraæ	
+baton Knoopers	528	8	32	52	zawiera	
+baton Lion	491	7,4	22,7	64,1	zawiera	
+baton Mars	451	3,6	18,2	68,9	mo¿e zawieraæ	
+baton Mars Delight	557	4,5	33,6	58,9	mo¿e zawieraæ	
+baton Milky Way	448	3,6	16,2	71,8	mo¿e zawieraæ	
+baton Pawe³ek z adwokatem	471	5,1	21	61,1	mo¿e zawieraæ	
+baton Pawe³ek z amaretto w ciemnej czekoladzie	460	5,1	20,7	59,9	mo¿e zawieraæ	
+baton Snickers	497	9,7	28,9	52,6	mo¿e zawieraæ	
+baton Twix	483	5,3	23,2	64,2	zawiera	
+batonik Chocapic	415	7,5	13,5	65,9	mo¿e zawieraæ	
+batonik Cini Minis	413	6,5	12,8	29	mo¿e zawieraæ	
+batonik Fitness	382	5,1	7	30,3	mo¿e zawieraæ	
+batonik Nesquik	418	7,2	7,9	66,5	mo¿e zawieraæ	
+ba¿ant pieczony	215	31,9	9,1	0	nie zawiera	
+bezy	420	2,9	11,5	53,8	zawiera	
+bezy z kremem	613	3,6	45,9	53,9	zawiera	
+biszkopt z m¹ki gryczanej	230	5	5,5	39,8	zawiera	
+bita œmietana w aerozolu	225	2,6	22,2	2,1	zawiera	
+Bitki wieprzowe	195	2,6	10,4	16,1	nie zawiera	
+Bitki wieprzowe w jarzynach	198	4,3	10,7	16	nie zawiera	
+Borówki	48	0,3	0,3	12,1	nie zawiera	
+Bób	66	14	7,1	0,4	nie zawiera	
+bób gotowany	87	7	0,6	14,2	nie zawiera	
+bób, ziarna suche	343	27,8	1,3	58,2	nie zawiera	
+bób, ziarna œwie¿e	65	7,7	0,3	14,9	nie zawiera	
+brandy	215	0	0	0	mo¿e zawieraæ	
+broku³y	25	2,9	0,3	5,7	nie zawiera	
+Broku³y	27	5,2	3	0,4	nie zawiera	
+broku³y gotowane	31	3,3	0,6	5,1	nie zawiera	
+broku³y mro¿one	23	2,7	0,4	4,7	nie zawiera	
+brukselka	33	4,9	0,4	9,2	nie zawiera	
+brukselka gotowana	49	3,8	0,9	8,1	nie zawiera	
+brukselka mro¿ona	39	3,9	0,4	9,1	nie zawiera	
+brzoskwinia	45	1,1	0,4	12,3	nie zawiera	
+brzoskwinia suzona	255	5,5	1,6	64,3	nie zawiera	
+brzoskwinia w syropie	77	0,7	0,1	19,9	nie zawiera	
+brzoskwinia w syropie, ods¹czona	88	0,9	0,2	21,5	nie zawiera	
+brzoskwinia, mus	78	2,8	0,2	18,9	nie zawiera	
+budyñ czekoladowy ugotowany na mleku 2%	98	3,4	2,4	15,9	zawiera	
+budyñ czekoladowy, proszek	368	0	1,9	87,2	zawiera	
+budyñ œmietankowy bez cukru, proszek	310	8,3	5,1	52,9	zawiera	
+budyñ œmietankowy ugotowany na mleku 2%	97	3,2	1,9	16,9	zawiera	
+Bu³ka tarta	347	77,6	9,7	1,9	zawiera	
+Bu³ki grahamki	258	56,9	8,2	1,7	zawiera	
+Bu³ki kajzerki	296	59,4	7,5	3,6	zawiera	
+Bu³ki maœlane	326	61,8	7,7	5,9	zawiera	
+Bu³ki pszenne zwyk³e	272	58,5	7,3	1,5	zawiera	
+Bu³ki wroc³awskie	293	57,4	7,2	4,4	zawiera	
+burak	41	1,9	0,1	9,3	nie zawiera	
+cebula	31	1,2	0,3	7,3	nie zawiera	
+cha³wa	473	13,1	22,5	60,3	zawiera	
+chipsy	536	6	30	53	zawiera	
+chipsy bekonowe	537	52,2	5,9	38	zawiera	
+Chipsy paprykowe	549	50,4	6	40	zawiera	
+Chipsy solone	552	49,9	5,6	40,7	zawiera	
+Chleb baltonowski	246	55,9	5,9	1,5	zawiera	
+Chleb chrupki	353	78,9	8,7	2,4	zawiera	
+Chleb Graham	226	49,4	7,6	1,7	zawiera	
+Chleb mazowiecki	248	56,3	6,3	1,4	zawiera	
+Chleb mieszany s³onecznikowy	246	49,2	6,4	4,5	zawiera	
+Chleb mieszany sojowy	231	49,6	6,8	2,7	zawiera	
+Chleb praski	244	56,2	5,7	1,3	zawiera	
+Chleb pszenny	249	56	6,8	1,4	zawiera	
+Chleb staropolski	219	50,5	5	1,7	zawiera	
+Chleb wiejski	239	55,1	5,8	1,3	zawiera	
+Chleb zwyk³y	245	57	5,4	1,3	zawiera	
+Chleb ¿ytni jasny	241	57,1	4	1,3	zawiera	
+Chleb ¿ytni jasny mleczny	253	58,3	4,8	1,8	zawiera	
+Chleb ¿ytni pe³noziarnisty	237	53,9	6,7	1,8	zawiera	
+Chleb ¿ytni razowy	223	51,5	5,6	1	zawiera	
+chrzan	66	4,6	0,7	19,2	nie zawiera	
+ciasteczka biszkoptowe Petitki Lubisie	388	6,6	16,3	59	zawiera	
+ciasteczka, delicje szampañskie	328	4,2	11,4	53,1	zawiera	
+ciastka - je¿yki	457	5	21,3	61,2	zawiera	
+ciastka - karpatki	460	5	31,2	42,9	zawiera	
+ciastka - kokosanki	470	6,9	20,3	67,7	zawiera	
+ciastka - markizy	488	5,5	23,9	64,7	zawiera	
+ciastka - napoleonki	356	6	16,9	44	zawiera	
+ciastka - ptysie z bit¹ œmietan¹	344	5,5	23,4	26,9	zawiera	
+ciastka - ptysie z kremem budyniowym	321	5	20,6	23,9	zawiera	
+ciastka - ró¿ki z ciasta francuskiego z jab³kami	398	4,4	26,6	39,2	zawiera	
+ciastka - sezamki	400	10	27,5	33	zawiera	
+ciasto dro¿d¿owe podstawowe	299	7,7	8,3	47,1	zawiera	
+ciasto francuskie podstawowe	511	4,4	40,4	36,9	zawiera	
+ciasto kruche podstawowe	411	5,9	22,2	52	zawiera	
+coca-cola	42	0	0	10,4	mo¿e zawieraæ	
+coca-cola light	1	0,1	0	0,1	mo¿e zawieraæ	
+cukier bia³y	402	0	0	99,8	nie zawiera	
+cukier br¹zowy	376	0	0	97,5	nie zawiera	
+cukier gronowy	388	0	0	99,6	nie zawiera	
+cukier puder	385	0	0,1	99,7	nie zawiera	
+cukier trzcinowy	398	0	0	98	nie zawiera	
+cukierki - dra¿e mleczne	404	2,7	13,1	65,7	zawiera	
+cukierki - galaretki wielosmakowe z cukrem	331	0,4	0	81,3	mo¿e zawieraæ	
+cukierki - irysy mleczne	433	4,9	10,1	73,2	mo¿e zawieraæ	
+cukierki - krówki	414	4,9	11,9	77,9	mo¿e zawieraæ	
+cukierki - landrynki	381	0	0	98,2	nie zawiera	
+cukierki - Nimm 2	368	0,1	0	92	mo¿e zawieraæ	
+cukierki - ptasie mleczko	479	2,8	29	55,5	zawiera	
+cukierki - toffi	545	3,3	33,1	62,1	mo¿e zawieraæ	
+cukierki - ¿elki	369	0	0	90	mo¿e zawieraæ	
+cukinia	13	1,4	0,2	3,1	nie zawiera	
+curaçao, likier	422	0	0	27,1	mo¿e zawieraæ	
+cykoria	23	1,5	0,1	4,9	nie zawiera	
+cytryna	35	1,3	0,4	9,3	nie zawiera	
+czarne jagody	46	1,1	0,9	13,8	nie zawiera	
+czekolada bia³a	588	7,9	39,2	50,5	mo¿e zawieraæ	
+czekolada deserowa	522	5,9	28,8	66,6	mo¿e zawieraæ	
+czekolada do picia	367	5,5	2,6	77,4	zawiera	
+czekolada gorzka	577	6,6	33,6	57,1	mo¿e zawieraæ	
+czekolada mleczna	550	9,9	31,1	53,9	mo¿e zawieraæ	
+czekoladki Ferrero Rocher	562	9	40,2	41	mo¿e zawieraæ	
+czekoladki Golden Nut	576	6	39	50,2	mo¿e zawieraæ	
+czekoladki Mon Cheri	421	3,2	19,7	57,8	mo¿e zawieraæ	
+czekoladki Rafaello	600	9,7	46,6	35,4	mo¿e zawieraæ	
+czekoladki Toffifee	535	6	31	58	mo¿e zawieraæ	
+czereœnie	62	1,1	0,4	13,9	nie zawiera	
+czereœnie suszone	275	4,6	1,3	69,9	nie zawiera	
+czosnek	144	6,6	0,6	32,5	nie zawiera	
+daktyle	92	0	0	26,2	nie zawiera	
+daktyle suszone	279	2,2	0,3	73,9	mo¿e zawieraæ	
+dorsz duszony	97	45,9	1,3	0	nie zawiera	
+dorsz gotowany	82	33,1	1,6	0	nie zawiera	
+dorsz pieczony	103	23,3	1,1	0,2	nie zawiera	
+dorsz sma¿ony panierowany	172	22,2	8,1	4	zawiera	
+dorsz wêdzony	95	22,3	0,6	0	mo¿e zawieraæ	
+dro¿d¿ówka	299	7,7	5,1	64,2	zawiera	
+dynia	26	1,7	0,5	7,6	nie zawiera	
+d¿em wiœniowy niskos³odzony	156	0,3	0,1	37,6	nie zawiera	
+d¿em wiœniowy wysokos³odzony	259	0,5	0,3	62,3	nie zawiera	
+fasola bia³a gotowana	144	8,6	0,9	25,4	nie zawiera	
+fasola bia³a Jaœ	343	21,2	1,7	62,3	nie zawiera	
+fasola bia³a konserwowa	88	3,6	0,1	17,2	mo¿e zawieraæ	
+faworki	579	4,6	51,3	25,6	zawiera	
+figi suszone	292	3,9	1,4	78,9	mo¿e zawieraæ	
+figi œwie¿e	77	0,6	0,4	20	nie zawiera	
+galaretka po przyrz¹dzeniu	54	2,6	0	70,1	zawiera	
+galaretka proszek	338	14,2	0	70,3	zawiera	
+gêœ - tuszka	345	14,7	30,2	0	nie zawiera	
+Gêœ miêso ze skóra pieczon¹	305	25.02.2017	21.09.2017	0	nie zawiera	
+Gêœ samo miêsko, pieczone	238	29	12.07.2017	0	nie zawiera	
+gin	233	0	0	0	mo¿e zawieraæ	
+g³uszec	123	18,2	6	0	nie zawiera	
+g³uszec pieczony	172	30,3	5,5	0	nie zawiera	
+go³¹b	172	20,1	9,9	0	nie zawiera	
+go³¹b pieczony	233	28,3	13,2	0	nie zawiera	
+granat	70	1,1	0,4	18,3	nie zawiera	
+grejpfrut	34	0,5	0,2	10,3	nie zawiera	
+grejpfrut czerwony	33	0,6	0,2	7,4	nie zawiera	
+grejpfrut w puszcze s³odzony	73	0,8	0,2	18,4	nie zawiera	
+groch gotowany	115	8,3	0,6	20,1	nie zawiera	
+groch, ziarno suche	301	24,2	1,5	62	nie zawiera	
+groszek zielony	76	6,6	0,5	16,9	nie zawiera	
+groszek zielony gotowany	97	6,4	0,3	19,2	nie zawiera	
+gruszka	55	0,7	0,3	14,6	nie zawiera	
+gruszka suszona	266	2	0,4	70	nie zawiera	
+guma do ¿ucia dla dzieci bez cukru Orbit	146	0	0	61	mo¿e zawieraæ	
+guma do ¿ucia Orbit	170	0	0	69	mo¿e zawieraæ	
+halibut duszony	171	23,1	2,4	0	nie zawiera	
+halibut gotowany	93	17	2,4	0	nie zawiera	
+halibut pieczony	133	26	2,5	0	nie zawiera	
+halibut sma¿ony	172	24,3	7,6	0	nie zawiera	
+halibut œwie¿y	99	20,2	1,8	0	nie zawiera	
+halibut wêdzony	177	18,1	11	0	mo¿e zawieraæ	
+herbata bez cukru, napar	0	0	0	0,1	nie zawiera	
+herbatniki	440	8,1	11,2	76,4	zawiera	
+homar gotowany	76	22,9	2	0	nie zawiera	
+homar œwie¿y	87	19,2	1,1	0,4	nie zawiera	
+homar w skorupie	33	22,2	1,3	0	nie zawiera	
+jab³ka suszone	52	0,26	0,17	13,8	nie zawiera	
+Jab³ko bez skórki	48	0,27	0,13	12,8	nie zawiera	
+jab³ko gotowane	53	0,26	0,36	13,6	nie zawiera	
+jab³ko pieczone	105	0,2	1,9	21,1	nie zawiera	
+jab³ko pieczone z cukrem	110	0,4	1,7	24,2	nie zawiera	
+jab³ko suszone	243	0,9	0,3	65,9	mo¿e zawieraæ	
+jab³ko, mus	122	2,9	1,1	27	nie zawiera	
+Jajko kurze ca³e, surowe	143	12,6	9,5	0,7	nie zawiera	
+jajko kurze w koszulkach	143	12,5	9,5	0,7	nie zawiera	
+Jajko kurze, bia³ko	52	10,9	0,2	0,7	nie zawiera	
+Jajko kurze, ¿ó³tko	322	15,9	26,5	3,6	nie zawiera	
+Jajko przepiórcze	158	13	11,1	0,4	nie zawiera	
+Jajo kurze ca³e, gotowane	155	12,6	10,6	1,12	nie zawiera	
+ja³owcówka	232	0	0	0	mo¿e zawieraæ	
+je¿yny	62	1,5	0,2	16,6	nie zawiera	
+Kaczka korpus, miêso ze skór¹ gotowane	258	22.02.2017	18.01.2017	0	nie zawiera	
+Kaczka, miêso ze skór¹ pieczon¹	337	19	28,3	0	nie zawiera	
+Kaczka, miêso ze skór¹ sma¿one	300	26	21	0	nie zawiera	
+kaczka, samo miêso pieczone	201	23,5	11,2	0	nie zawiera	
+kakao Nesquik, proszek	380	3,5	3	84,3	zawiera	
+kakao, proszek 16%	452	19	20,9	51,3	mo¿e zawieraæ	
+kakao, proszek 20%	460	19	20,1	51,2	mo¿e zawieraæ	
+kalafior	20	2,5	0,2	5,1	nie zawiera	
+kalarepa	31	2,3	0,4	6,6	nie zawiera	
+kapusta bia³a	27	1,6	0,1	7,7	nie zawiera	
+kapusta chiñska	33	3,2	0,2	6,1	nie zawiera	
+kapusta czerwona	26	1,8	0,3	7	nie zawiera	
+kapusta kwaszona	13	1,2	0,3	3,1	nie zawiera	
+kapusta pekiñska	13	1,3	0,1	3,8	nie zawiera	
+kapusta w³oska	39	3,4	0,3	7,7	nie zawiera	
+karczochy	48	3,2	0,2	11	nie zawiera	
+karmel	404	4,1	11,3	77,7	mo¿e zawieraæ	
+karp duszony	144	8,8	5,4	0	nie zawiera	
+karp gotowany	144	23,1	5,4	0	nie zawiera	
+karp pieczony	148	23,3	5,9	0	nie zawiera	
+karp sma¿ony	178	22,5	11	0	nie zawiera	
+karp œwie¿y	111	17,3	4	0	nie zawiera	
+kawa bez cukru, napar	3	0,3	0	0,4	nie zawiera	
+kawa cappuccino, proszek, Mokate	413	9	9	74	mo¿e zawieraæ	
+kawa rozpuszczalna, proszek, Nescafé	240	12,2	0,5	41,1	mo¿e zawieraæ	
+kawa zbo¿owa bez cukru, napar	3	0,3	0	0,4	zawiera	
+kawa zbo¿owa, proszek	366	6,3	2,7	80	zawiera	
+kawior	267	25,3	18,1	3,8	mo¿e zawieraæ	
+kefir 0% t³uszczu	26	3,3	0	3,1	nie zawiera	
+kefir 2% t³uszczu	55	3,6	2	4,8	nie zawiera	
+kie³basa delikatesowa z kurczaka	111	20,2	3,6	0,2	zawiera	
+kie³basa ja³owcowa z kurczaka	239	19,8	17,5	0,2	zawiera	
+kie³basa kanapkowa z kurczaka	183	12,8	14,1	3,1	zawiera	
+kie³basa mazurska z indyka	133	15,2	7,9	0,2	zawiera	
+kie³basa mortadela z indyka	212	11,3	17,6	0,2	zawiera	
+Kie³basa Œl¹ska	217	18,4	15,3	0	zawiera	
+Kie³basa Œl¹ska z Grilla	313	22,1	27	1,62	zawiera	
+kie³basa wieprzowa	326	14,1	28,7	1,63	zawiera	
+kisiel bez cukru, proszek	339	0	0	83,2	zawiera	
+kisiel b³yskawiczny gotowy	63	0,3	0	15,3	zawiera	
+kisiel z cukrem gotowy	67	0	0	18,1	zawiera	
+kiwi	55	1	0,4	14,3	nie zawiera	
+koncentrat pomidorowy 20%	81	4,5	1,6	12,1	mo¿e zawieraæ	
+koncentrat pomidorowy 30%	94	5,9	2,1	17,2	mo¿e zawieraæ	
+koniak	321	0	0	0	mo¿e zawieraæ	
+koper ogrodowy	25	3	0,4	6,5	nie zawiera	
+koperek zielony	20	3,2	0,6	7	nie zawiera	
+kraby gotowane	112	21	1,4	1,2	nie zawiera	
+kraby surowe	85	17,6	1,3	0,5	nie zawiera	
+kraby w puszce	104	17,9	2,8	1,5	zawiera	
+kraby w skorpupie	44	20,2	0,7	0,2	nie zawiera	
+krakersy	500	14,6	24,1	68,1	zawiera	
+krewetki gotowane	100	21,4	1,4	0	nie zawiera	
+kukurydza konserwowa	103	2,6	1	22,6	nie zawiera	
+kukurydza pra¿ona	398	12,5	5,2	77,1	zawiera	
+kukurydza, kolba	112	3,6	1,2	22,1	nie zawiera	
+kurczak - pierœ bez skóry pieczona, na grillu	152	29,1	3	0	mo¿e zawieraæ	
+kurczak - pierœ bez skóry, duszona	140	27,2	3,2	0	nie zawiera	
+kurczak - pierœ bez skóry, sma¿ona	174	31,2	4,6	0	nie zawiera	
+kurczak - porcja roso³owa	180	19,2	11,9	0	nie zawiera	
+kurczak - skóra duszona	400	13	37,9	0	nie zawiera	
+kurczak - skóra pieczona	499	16,6	47,2	0	nie zawiera	
+kurczak - skóra sma¿ona	520	16,1	49,2	0	nie zawiera	
+kurczak - skóra surowa	290	11,3	38,4	0	nie zawiera	
+Kurczak ,pierœ sma¿ona	187	33.4	4.07.2017	0.5	nie zawiera	
+Kurczak pierœ pieczone bez skóry	165	31	3.06.2017	0	nie zawiera	
+kurczak podudzie miêso ze skór¹ pieczone	191	23.04.2017	10.02.2017	0	nie zawiera	
+Kurczak podudzie, miêso gotowane ze skór¹	204	25.03.2017	10.06.2017	0	nie zawiera	
+Kurczak, miêso pieczone	239	28.02.2017	13.02.2017	0	nie zawiera	
+Kurczak, miêso sma¿one w panierce	331	22	21.09.2017	10.03.2017	zawiera	
+kurczak, miêso ze skór¹, sma¿ony w m¹ce	331	27.08.2017	20.07.2017	6.05.2017	zawiera	
+Kurczak, pierœ duszona bez skóry	151	29	3	0	nie zawiera	
+Kurczak, pierœ gotowana ze skór¹	184	27.04.2017	7.04.2017	0	nie zawiera	
+Kurczak, pierœ sma¿ona w m¹ce	222	31.08.2017	8.09.2017	1.06.2017	zawiera	
+Kurczak, pierœ sma¿ona w panierce	260	24.08.2017	13.02.2017	9	zawiera	
+Kurczak, pierœ z ro¿na	184	27.05.2017	8.02.2017	0	nie zawiera	
+kurczak, pierœ, miêso ze skór¹, pieczone	197	29.08.2017	7.08.2017	0	nie zawiera	
+Kurczak, podudzie gotowane bez skóry	169	27.05.2017	5.07.2017	0	nie zawiera	
+Kurczak, podudzie sma¿one bez skóry	195	28.06.2017	8.01.2017	0	nie zawiera	
+Kurczak, samo miêso gotowane	209	25.03.2017	11.02.2017	0	nie zawiera	
+Kurczak, samo miêso sma¿one	288	30	15.03.2017	5.07.2017	nie zawiera	
+Kurczak, samo miêso surowe	137	19.06.2017	5.09.2017	0	nie zawiera	
+Kurczak, sma¿one miêso z ro¿na	205	25.03.2017	11.05.2017	0	nie zawiera	
+likier kminkowy	166	0	0	24,6	mo¿e zawieraæ	
+likier orzechowy	274	0	0	22,3	mo¿e zawieraæ	
+likier zio³owy	203	0	0	0	mo¿e zawieraæ	
+limonka	28	0,6	0,3	11,2	nie zawiera	
+lody bakaliowe	136	2,4	7,5	15,8	mo¿e zawieraæ	
+lody czekoladowe	133	2,4	6,3	16,9	mo¿e zawieraæ	
+lody owocowe	122	2,4	7,1	14,7	mo¿e zawieraæ	
+lody œmietankowe	171	3	7,9	16,7	mo¿e zawieraæ	
+lody œmietankowe light	119	3,2	5,7	12,9	mo¿e zawieraæ	
+³osoœ gotowany	263	25,1	17,3	0	nie zawiera	
+³osoœ pieczony	254	24,6	17,5	0	nie zawiera	
+³osoœ sma¿ony	301	24,2	22,3	0	nie zawiera	
+³osoœ œwie¿y	206	21,1	14,5	0	nie zawiera	
+³osoœ w puszce	204	22	12,1	0	zawiera	
+³osoœ wêdzony	158	22,6	9,1	0	mo¿e zawieraæ	
+Makaron bezjajeczny	364	11	1,6	77,6	zawiera	
+Makaron czterojajeczny	391	13,2	3,4	78,3	zawiera	
+Makaron dwujajeczny	373	12	2,6	76,8	zawiera	
+Makaron farfalline pe³noziarnisty z 5 zbó¿	351	14,4	2,5	63,8	zawiera	
+Makaron penne pe³noziarnisty	345	15,2	1,3	68	zawiera	
+Makaron rurki (z pszenicy Durum)	350	12	1,5	72,1	zawiera	
+Makaron ry¿owy	356	6,8	0,7	83	zawiera	
+Makaron spaghetti razowy	354	13	2,5	66,5	zawiera	
+maliny	30	1,2	0,4	11,8	nie zawiera	
+mandarynka	43	0,7	0,3	10,9	nie zawiera	
+mango	66	0,7	0,4	17,7	nie zawiera	
+marakuja	35	2,9	0,3	6,3	nie zawiera	
+marcepan	433	8,2	18,1	66,1	mo¿e zawieraæ	
+marchew	28	0,9	0,3	8,5	nie zawiera	
+marchew gotowana	33	1,2	0,3	8,8	nie zawiera	
+marchew konserwowa	22	0,6	0,2	4,3	nie zawiera	
+marchew mro¿ona	25	1,1	0,3	7,9	nie zawiera	
+marmolada	271	0,5	0,2	68,9	nie zawiera	
+marmolada œliwkowa	244	0,5	0,3	63,5	nie zawiera	
+Mas³o ekstra	735	0,7	82,5	0,7	nie zawiera	
+Mas³o klarowane	883	0	99	0	nie zawiera	
+maœlanka 0,5%	36	3,5	0,6	4,9	nie zawiera	
+maœlanka 1,5%	45	3	1,7	4,9	nie zawiera	
+M¹ka kukurydziana	337	5,9	3	78	nie zawiera	
+M¹ka pszenna typ 1850	309	11,9	2,3	70	zawiera	
+M¹ka pszenna typ 500	343	10,1	1,2	74	zawiera	
+M¹ka pszenna typ 550	344	10,5	1,6	73	zawiera	
+M¹ka pszenna typ 750	341	11,6	1,8	71,3	zawiera	
+melasa	233	0	0	61	mo¿e zawieraæ	
+melon	33	1	0,4	8,5	nie zawiera	
+miód pszczeli	331	0,4	0	79,9	nie zawiera	
+miód sztuczny	330	0,3	0	83,5	zawiera	
+mleko kozie	70	3,1	4	4,6	nie zawiera	
+mleko krowie 3,2% t³uszczu	63	3,5	3,2	5	nie zawiera	
+mleko krowie pasteryzowane 0,5% t³uszczu	40	3,6	0,5	5,2	nie zawiera	
+mleko krowie pasteryzowane 2,0% t³uszczu	54	3,5	2	5,3	nie zawiera	
+mleko krowie pasteryzowane 3,2% t³uszczu	62	3,4	3,2	5	nie zawiera	
+mleko krowie pasteryzowane 3,5% t³uszczu	66	3,2	3,5	5	nie zawiera	
+mleko krowie UHT 0,5% t³uszczu	40	3,6	0,5	5,2	nie zawiera	
+mleko krowie UHT 1,5% t³uszczu	45	3,3	1,5	5,1	nie zawiera	
+mleko krowie UHT 2,0% t³uszczu	53	3,5	2	5	nie zawiera	
+mleko krowie w proszku odt³uszczone	260	36,1	0,9	52	nie zawiera	
+mleko krowie w proszku pe³ne	475	27,1	24,2	29,2	nie zawiera	
+mleko krowie w proszku pó³t³uste	409	30,3	12,4	40,5	nie zawiera	
+mleko krowie zagêszczone nies³odzone	133	6,7	7,7	9,6	nie zawiera	
+mleko krowie zagêszczone s³odzone	330	7,7	8,2	56,1	nie zawiera	
+mleko krowie zsiad³e	60	3,2	3,1	4,9	nie zawiera	
+mleko owcze	109	6,2	7,1	5,3	nie zawiera	
+morele	45	0,8	0,3	12,3	nie zawiera	
+morele suszone	290	5,5	1,3	72,4	mo¿e zawieraæ	
+morszczuk pieczony	122	23,1	2,5	0	nie zawiera	
+morszczuk sma¿ony	160	21,3	7,7	0	nie zawiera	
+morszczuk œwie¿y	90	18,1	2,4	0	nie zawiera	
+napój Fanta	48	0	0	11,7	mo¿e zawieraæ	
+napój jab³kowy	43	0,1	0,4	9,9	mo¿e zawieraæ	
+napój Red Bull	45	0	0	11,3	mo¿e zawieraæ	
+napój Sprite	42	0	0	10,5	mo¿e zawieraæ	
+napój z czarnej porzeczki Tymbark	57	0,1	0,1	14	mo¿e zawieraæ	
+nektar jab³kowy antonówka, Tymbark	44	0,1	0,1	10,6	mo¿e zawieraæ	
+nektarynka	45	0,8	0,2	11,6	nie zawiera	
+ogórek konserwowy	12	0,4	0,3	2,5	nie zawiera	
+ogórek kwaszony	12	0,9	0,2	2	nie zawiera	
+ogórek zielony	14	0,8	0,2	3	nie zawiera	
+paluszki rybne mro¿one	180	12,1	5,8	19,9	zawiera	
+paluszki rybne pieczone	215	15,3	9,2	19,8	zawiera	
+paluszki rybne sma¿one	234	13,3	12	17,5	zawiera	
+paluszki rybne œwie¿e	200	12	9	15,1	zawiera	
+panga pieczona	112	18	3,8	0	nie zawiera	
+panga sma¿ona	152	16,5	9,3	0	nie zawiera	
+panga œwie¿a	93	13,1	3,8	0	nie zawiera	
+papaja	45	0,7	0,1	10,8	nie zawiera	
+papryka	32	1,3	0,2	7,2	nie zawiera	
+paprykarz szczeciñski	180	10	12,1	8,7	zawiera	
+parówki z indyka	233	12,3	19,7	0,6	zawiera	
+parówki z kurczaka	251	10,3	22,1	4,1	zawiera	
+pasta rybna	100	7,8	5,7	4	zawiera	
+pasternak	57	1,7	0,5	15,8	nie zawiera	
+pasztet rybny	266	10,5	21	8,7	zawiera	
+p¹czek	381	5,8	16,2	52,5	zawiera	
+pepsi cola	42	0	0	10,4	mo¿e zawieraæ	
+pepsi cola light	1	0,1	0	0,1	mo¿e zawieraæ	
+pietruszka natka	42	4,5	0,5	8,8	nie zawiera	
+pietruszka, korzeñ	40	2,7	0,4	11	nie zawiera	
+pigwa	55	0,5	0,1	16	nie zawiera	
+piwo bezalkoholowe	29	0,3	0	5,4	mo¿e zawieraæ	
+piwo ciemne	50	0,3	0	5,6	zawiera	
+piwo ciemne pe³ne	77	0,5	0,1	7,2	zawiera	
+piwo imbirowe	32	0	0	8,5	zawiera	
+piwo jasne	42	0,6	0	4	zawiera	
+piwo jasne pe³ne	72	0,5	0,1	5	zawiera	
+piwo korzenne	42	0	0	11	zawiera	
+pomarañcze	45	1	0,3	10,9	nie zawiera	
+pomidor	16	1	0,3	3,7	nie zawiera	
+por	25	2,3	0,4	5,9	nie zawiera	
+porter	90	0,5	0,1	9,5	mo¿e zawieraæ	
+porto	170	0	0	12	mo¿e zawieraæ	
+portwein	162	0,3	0	14,5	mo¿e zawieraæ	
+porzeczki czarne	36	1,5	0,2	15,5	nie zawiera	
+porzeczki czerwone	33	1	0,3	14,3	nie zawiera	
+poziomki	35	0,9	0,6	8,5	nie zawiera	
+przepiórka pieczona	218	37,8	6,9	0	nie zawiera	
+rabarbar	8	0,6	0,1	4,4	nie zawiera	
+rum	241	0	0	0	mo¿e zawieraæ	
+rurka z kremem	155	5,5	7,2	24,9	zawiera	
+rzepa	27	1,2	0,4	8	nie zawiera	
+rze¿ucha ogrodowa	19	2,5	0,6	1,3	nie zawiera	
+rzodkiewka	15	1,1	0,3	4,5	nie zawiera	
+sa³ata	15	1,5	0,2	3	nie zawiera	
+sa³ata lodowa	15	1	0,1	3,2	nie zawiera	
+sandacz pieczony	115	25	1	0	nie zawiera	
+sandacz sma¿ony	139	22,8	5,7	0	nie zawiera	
+sandacz œwie¿y	85	20,1	0,6	0	nie zawiera	
+sardynka œwie¿a	172	21	9,7	0	nie zawiera	
+sardynka w oleju	223	24,5	14,1	0	mo¿e zawieraæ	
+sardynka w pomidorach	165	17,2	10,1	1,3	mo¿e zawieraæ	
+sardynka w puszce, bez oleju	220	24,5	11,4	1,3	zawiera	
+seler korzeniowy	18	1,7	0,2	6,7	nie zawiera	
+seler naciowy	12	1,1	0,2	3,7	nie zawiera	
+ser edamski t³usty	316	27	22,8	0,2	nie zawiera	
+ser edamski topiony	299	13,6	27,5	1,4	nie zawiera	
+ser ementaler pe³not³usty	384	29,2	30,1	0,2	nie zawiera	
+ser ementaler t³usty	316	30	20,9	0,2	nie zawiera	
+ser feta	216	17,2	15,8	1,1	nie zawiera	
+ser mascarpone	455	5,9	46	2,1	nie zawiera	
+ser mozzarella	251	11,7	12,1	23,8	nie zawiera	
+ser oscypek	593	12,3	61	0,1	nie zawiera	
+ser parmezan	453	42	31,5	0,2	nie zawiera	
+ser pleœniowy	352	21,6	29,2	2,6	mo¿e zawieraæ	
+ser tofu	72	7,2	3,9	1,3	mo¿e zawieraæ	
+ser topiony edamski	294	13,2	26,8	1,1	mo¿e zawieraæ	
+ser topiony ementaler	306	12,8	27,1	0,9	mo¿e zawieraæ	
+ser topiony kremowy	311	17,4	27,5	1,6	mo¿e zawieraæ	
+ser topiony t³usty	225	18,3	16,1	1,4	mo¿e zawieraæ	
+ser twarogowy chudy	98	20	0,4	3,2	nie zawiera	
+ser twarogowy pó³t³usty	135	18,9	4,8	3,6	nie zawiera	
+ser twarogowy t³usty	177	17,9	10,3	3,6	nie zawiera	
+ser wiejski	129	17,4	4,7	2,7	nie zawiera	
+serek homogenizowany	143	16,4	3,7	12,8	nie zawiera	
+sernik brzoskwiniowy	233	9,2	8,9	29,5	zawiera	
+sernik na zimno	200	13,5	5	26,5	zawiera	
+serwatka p³ynna	26	0,9	0,1	4,9	nie zawiera	
+s³one paluszki	396	10,1	6,4	76,3	zawiera	
+soja	390	35,2	20,2	33,1	nie zawiera	
+sok ananasowy	50	0,4	0,2	11,8	nie zawiera	
+sok cytrynowy	27	0,5	0,3	6,1	nie zawiera	
+sok grejpfrutowy	40	0,6	0,1	9,4	nie zawiera	
+sok gruszkowy	46	0	0	12	nie zawiera	
+sok jab³kowy	44	0,1	0,1	9,5	nie zawiera	
+sok marchwiowy	44	0,5	0,1	11,5	nie zawiera	
+sok pomarañczowy	44	0,7	0,1	10	nie zawiera	
+sok pomidorowy	12	0,9	0,1	2,7	nie zawiera	
+sok z buraków	36	1,5	0,1	7,3	nie zawiera	
+sok z pomidorów	15	0,9	0,1	2,7	nie zawiera	
+sok z winogron	59	0,7	0,1	15,3	nie zawiera	
+syrop klonowy	257	0	0,3	67,3	nie zawiera	
+szampan	76	0,4	0	1,5	mo¿e zawieraæ	
+szampan pó³s³odki	99	0,3	0	7	mo¿e zawieraæ	
+szampan pó³wytrawny	80	0,1	0	3,5	mo¿e zawieraæ	
+szampan s³odki	121	0,3	0	12	mo¿e zawieraæ	
+szczaw	22	1	0,7	5,1	nie zawiera	
+szczupak gotowany	18	1,2	0,6	4,3	nie zawiera	
+szczupak pieczony	100	20,9	1,5	0	nie zawiera	
+szczupak sma¿ony	153	22,5	6,3	0	nie zawiera	
+szczupak œwie¿y	79	18,6	0,9	0	nie zawiera	
+szczypiorek	31	3,2	0,7	4,1	nie zawiera	
+szparagi	20	2,1	0,3	3,9	nie zawiera	
+szpinak	15	2,5	0,5	3,2	nie zawiera	
+szprot w oleju	356	27,8	32,1	0	mo¿e zawieraæ	
+szynka delikatesowa z kurczaka	94	8,7	5,4	0	zawiera	
+szynka z indyka	85	17,8	1,4	0,1	zawiera	
+szynka z piersi kurczaka	97	21,4	1,3	0,3	zawiera	
+szynka z udŸca kurczaka	118	17,3	5,4	0	zawiera	
+œledŸ marynowany	195	16,7	13	3,5	mo¿e zawieraæ	
+œledŸ pieczony	212	20,1	14,1	0	nie zawiera	
+œledŸ sma¿ony	250	20,2	18,3	0	nie zawiera	
+œledŸ solony	220	20,3	14,9	0	nie zawiera	
+œledŸ œwie¿y	165	16,4	11,1	0	nie zawiera	
+œledŸ w oleju	301	16,3	26,3	0	nie zawiera	
+œledŸ w pomidorach	180	14,1	13,2	2	nie zawiera	
+œledŸ w sosie pomidorowym	160	14	9,5	4,2	nie zawiera	
+œledŸ w œmietanie	100	5,7	6,4	5,5	nie zawiera	
+œledŸ wêdzony	213	22,1	13,2	0	nie zawiera	
+œliwki	46	0,5	0,3	12	nie zawiera	
+œmietana 12% t³uszczu	136	2,8	12	4	nie zawiera	
+œmietana 18% t³uszczu	185	2,7	18	3,4	nie zawiera	
+œmietana 20% t³uszczu	202	2,5	20	3,6	nie zawiera	
+œmietana 24% t³uszczu	240	2,5	24	3,5	nie zawiera	
+œmietana 30% t³uszczu	292	2,3	30	3	nie zawiera	
+œmietana 9% t³uszczu	111	2,8	9	4,5	nie zawiera	
+œmietanka 12% t³uszczu	135	2,8	12	4	nie zawiera	
+œmietanka 18% t³uszczu	188	2,6	18	3,7	nie zawiera	
+œmietanka 20% t³uszczu	206	2,6	20	3,4	nie zawiera	
+œmietanka 30% t³uszczu	290	2,3	30	3,4	nie zawiera	
+tonik	35	0	0	9,1	mo¿e zawieraæ	
+truskawki	30	0,8	0,5	7,3	nie zawiera	
+tuñczyk pieczony	187	30,7	6	0	nie zawiera	
+tuñczyk œwie¿y	145	24,1	4,7	0	nie zawiera	
+tuñczyk w oleju	191	27,3	9,3	0	mo¿e zawieraæ	
+tuñczyk w oleju pomidorowym z warzywami	140	13,8	2,5	16,1	mo¿e zawieraæ	
+tuñczyk w sosie w³asnym	101	24,2	0,5	0	mo¿e zawieraæ	
+tuñczyk w wodzie	95	20,8	1,3	0	nie zawiera	
+wafel Prince Polo	534	4,8	32,5	57,5	zawiera	
+w¹tróbka drobiowa	137	19,9	6	0,7	nie zawiera	
+w¹tróbka drobiowa duszona	185	26	8,4	0,2	nie zawiera	
+w¹tróbka drobiowa gotowana	190	25,6	8,9	0,2	nie zawiera	
+whisky	220	0	0	0	mo¿e zawieraæ	
+wino bia³e musuj¹ce	77	0	0	1,6	mo¿e zawieraæ	
+wino bia³e pó³wytrawne	83	0,1	0	3,9	mo¿e zawieraæ	
+wino bia³e s³odkie	90	0,2	0	6,1	mo¿e zawieraæ	
+wino bia³e wytrawne	111	0,1	0	0,8	mo¿e zawieraæ	
+wino czerwone	109	0,1	0	0,3	mo¿e zawieraæ	
+wino czerwone pó³s³odkie	78	0	0	0,9	mo¿e zawieraæ	
+wino czerwone s³odkie	107	0,1	0	8,3	mo¿e zawieraæ	
+wino czerwone wytrawne	68	0	0	0,4	mo¿e zawieraæ	
+winogrona	72	0,8	0,2	18,4	nie zawiera	
+wiœnie	49	0,7	0,5	11,2	nie zawiera	
+wiœnie suszone	273	5,4	2,6	65,2	mo¿e zawieraæ	
+woda mineralna	0	0	0	0	nie zawiera	
+wódka czysta	224	0	0	0	nie zawiera	
+zabielacz do kawy, proszek	105	2,7	7,6	10,5	mo¿e zawieraæ	
+ziemniaki	75	1,7	0,2	19	nie zawiera	
+ziemniaki bez skóry opiekane	110	2,3	0,2	25,6	nie zawiera	
+ziemniaki gotowane	104	2,3	0,1	23,6	nie zawiera	
+ziemniaki póŸne	87	2	0,2	21,1	nie zawiera	
+ziemniaki póŸne gotowane	115	2	0,2	26,8	nie zawiera	
+ziemniaki purée	120	2,3	2,7	21,6	nie zawiera	
+ziemniaki wczesne	67	1,9	0,2	16,6	nie zawiera	
+ziemniaki wczesne gotowane	93	2,1	0,2	21,3	nie zawiera	
+¿o³¹dki drobiowe	120	18,8	3,9	0,5	nie zawiera	
+¿o³¹dki drobiowe gotowane	157	27,5	3,9	1,3	nie zawiera	
+¿urawina	50	0,5	0,2	13	nie zawiera	
